@@ -1,2 +1,4 @@
 # galeria-imagens
- Galeria de imagens  com função de filtrar os itens por categoria. desenvolvida com HTML, CSS e JavaScript.
+ galeria de imagens usando HTML, CSS e JavaScript
+
+https://rodrigofuster.github.io/galeria-imagens/
