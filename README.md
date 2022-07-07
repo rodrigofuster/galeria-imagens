@@ -1,8 +1,8 @@
-# Menu Responsivo
+# Galeria de Imagens
 <hr>
 
 ## Descrição:
-### :computer: Desenvolvimento de uma galeria de imagens com a função de filtar os intens por categorias.
+### :computer: Desenvolvimento de uma galeria de imagens com a função de filtrar os intens por categorias.
 <hr>
 
 ### Ver Projeto: :point_right: [Galeria](https://rodrigofuster.github.io/galeria-imagens/)
